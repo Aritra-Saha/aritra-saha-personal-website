@@ -1,2 +1,2 @@
 # aritra-saha-personal-website
-Personal Portfolio outlining my personal achievements
+Portfolio outlining my personal achievements and contributions in Computer Science
